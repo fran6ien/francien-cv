@@ -15,62 +15,36 @@ Ing. Système et Maintenance
 
 ## Currently
 
-Stage système et maintenance à SOCATAM de TOKHEIM Group Service
+Stagiaire Système et Maintenance à SOCATAM de TOKHEIM Group Service
 
 ### Specialized in
 
-GMAO (Gestion Maintenance Assistée par Ordinateur)
+GMAO (Gestion de la Maintenance Assistée par Ordinateur)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Analyse de données, Développement Web et Mobile.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+__Master II en MIAGE, Université de Douala__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Méthodes Informatiques Appliquées à la Gestion des Entreprises
 
-- Sizar
+`2011-2012`
+__Licence en Génie des Réseaux et Télécommunications, ISTDI de Douala__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Option Administration et Sécurité des Réseaux
 
-- Fellow
+`2008-2010`
+__DUT en Génie Electrique et Informatique Industrielle, IUT de Douala__
 
+`2008`
+__Baccalauréat Série C, Collège du Levant__
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
@@ -88,6 +62,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
 
 
