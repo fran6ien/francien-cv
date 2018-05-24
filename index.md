@@ -6,8 +6,8 @@ title: Fogne Fosso Francien's CV
 Ing. Système et Maintenance
 
 <div id="webaddress">
-[gnefo2012@gmail.com](gnefo2012@gmail.com)
-| [github.com/fran6ien]:octacat:
+[gnefo2012@gmail.com]:gnefo2012@gmail.com
+| [github.com/fran6ien]: https://github.com/fran6ien :octacat:
 | 696 24 64 89 - 679 40 67 73
 | Bonabéri-Douala
 </div>
