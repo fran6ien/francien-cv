@@ -14,7 +14,7 @@ Bonabéri-Douala
 
 ## Currently
 
-Stagiaire Système et Maintenance à SOCATAM de TOKHEIM Group Service
+Stagiaire Système et Maintenance à SOCATAM de TOKHEIM Group Services
 
 ### Specialized in
 
@@ -49,14 +49,14 @@ __Baccalauréat Série C, Collège du Levant__
 ## Occupation
 
 `04 Déc. 2017 - now`
-__SOCATAM__, Base Elf-Douala
+__SOCATAM de TOKHEIM Group Services__, Base Elf-Douala
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Synthèse des Master Data de la base GMAO
+- Renseigement des données complémentaires dans la base GMAO
+- Enregistrement et Envoie des ordres de service aux techniciens
+- Extraction et traitement des ordres de service 
+- Reporting et tableaux de bord des ordres de service
+- Support technique GMAO (tablette et client PC) 
 
 
 <!-- ### Footer
