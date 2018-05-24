@@ -8,7 +8,7 @@ Ing. Système et Maintenance
 <div id="webaddress">
   <a href="mailto:gnefo2012@gmail.com">gnefo2012@gmail.com</a>
   | <a href="https://github.com/fran6ien">github.com/fran6ien</a>
-| 696 24 64 89 - 679 40 67 73
+  | <a href="tel:+237696246489>+237696246489</a> - <a href="tel:+237679406773>+237679406773</a>
 | Bonabéri-Douala
 </div>
 
@@ -24,7 +24,7 @@ GMAO (Gestion de la Maintenance Assistée par Ordinateur)
 
 ### Research interests
 
-Analyse de données, Développement Web et Mobile.
+Analyse de données, Développement Web et Mobile, Infographie.
 
 
 ## Education
@@ -49,8 +49,8 @@ __Baccalauréat Série C, Collège du Levant__
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`04 Déc. 2017 - now`
+__SOCATAM__, Base Elf-Douala
 
 - Warden
 - Minted coins
