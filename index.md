@@ -7,7 +7,7 @@ Système et Maintenance; Data Analyst; Développeur Web et Mobile.
 
 <div id="webaddress">
 <a href="gnefo2012@gmail.com">gnefo2012@gmail.com</a>
-| <a href="http://github.com/francien">Ma page : </a>
+| <a href="http://github.com/francien">:octocat: Github </a>
 </div>
 
 
