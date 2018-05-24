@@ -3,21 +3,21 @@ layout: cv
 title: Fogne Fosso Francien's CV
 ---
 # Fogne Fosso Francien
-Système et Maintenance; Data Analyst; Développeur Web et Mobile.
+Ing. Système et Maintenance
 
 <div id="webaddress">
 <a href="gnefo2012@gmail.com">gnefo2012@gmail.com</a>
-| <a href="http://github.com/fran6ien">:octocat: Github </a>
+| <a href="http://github.com/fran6ien"> Github </a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Stage système et maintenance à SOCATAM de TOKHEIM Group Service
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+GMAO (Gestion Maintenance Assistée par Ordinateur)
 
 
 ### Research interests
