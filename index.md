@@ -7,8 +7,8 @@ Ing. Système et Maintenance
 
 <div id="webaddress">
   <a href="mailto:gnefo2012@gmail.com">gnefo2012@gmail.com</a>
-  | <a href="https://github.com/fran6ien">github.com/fran6ien</a>
-  | <a href="tel:+237696246489>+237696246489</a> - <a href="tel:+237679406773>+237679406773</a>
+  | <a href="https://github.com/fran6ien">github.com/fran6ien</a> </br>
+  | <a href="tel:+237696246489">+237696246489</a> - <a href="tel:+237679406773">+237679406773</a>
 | Bonabéri-Douala
 </div>
 
