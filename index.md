@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Fogne Fosso Francien's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fogne Fosso Francien
+Système et Maintenance; Data Analyst; Développeur Web et Mobile.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gnefo2012@gmail.com">gnefo2012@gmail.com</a>
+| <a href="http://github.com/francien">Ma page : </a>
 </div>
 
 
